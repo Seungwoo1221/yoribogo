@@ -344,6 +344,11 @@ pre {
 }
 /* Footer */
 
+footer img {
+  width: 300px;
+  height: 300px;
+}
+
 .footerHead {
     margin-top: 56px ;
 }
